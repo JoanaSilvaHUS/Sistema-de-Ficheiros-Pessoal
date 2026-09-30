@@ -1,8 +1,3 @@
-<style>
-  h1 { color: #ffffff; } /* White color for h1 */
-  h2 { color: #db69c1; } /* Green color for h2 */
-  h3 { color: #ff9900; } /* Orange color for h3 */
-</style>
 
 # <span style="color:white; font-size: 44px;">README</span>
 
